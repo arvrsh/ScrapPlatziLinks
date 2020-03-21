@@ -1,5 +1,7 @@
-# ScrapPlatziLinks
+# Scrap Platzi Links
 Obten los enlaces de cada clase en un curso.
+
+> Si deseas aportar puedes utilizar mi referido de platzi: [https://platzi.com/c/arvrsh/](https://platzi.com/c/arvrsh/)
 
 # Uso
 Crea un bookmark en tu navegador con el siguiente contenido:
